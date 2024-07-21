@@ -32,7 +32,7 @@ This is a simple Spring Boot application that provides a RESTful API for managin
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/spring-boot-crud-api.git
+    git clone https://github.com/tonylai2022/spring-boot-crud-api.git
     cd spring-boot-crud-api
     ```
 
